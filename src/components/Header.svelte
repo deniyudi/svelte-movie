@@ -8,7 +8,7 @@
     <a href="/">
       <img src="{svelteLogo} " alt="svelte-logo" class="svelte-logo">
     </a>
-    <img src="{tmdbLogo}" alt="tmdb-logo" class="tmbd-logo">
+    <img src="{tmdbLogo}" alt="tmdb-logo" class="tmdb-logo">
   </div>
 </header>
 
